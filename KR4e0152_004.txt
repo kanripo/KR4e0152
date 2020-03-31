@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.436439
+#+DATE: 2020-03-31 11:37:29.901492
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR4e0152_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -487,7 +487,7 @@
 ¶
 　　念奴嬌(湘山懐古)¶
 ¶
-　　振衣嵂&KR1635;洗長空初過一天新雨萬壑千峰爭聳秀猶¶
+　　振衣嵂屼洗長空初過一天新雨萬壑千峰爭聳秀猶¶
 有微雲吞吐撲地閭閻横江城郭總是閒塵土寺前松¶
 檜讓渠曽見今古　漫説衡嶽巡遊鬱林開拓身後還¶
 <pb:KR4e0152_WYG_004-21a>¶

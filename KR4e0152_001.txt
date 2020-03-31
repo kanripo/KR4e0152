@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.405517
+#+DATE: 2020-03-31 11:37:29.877909
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4e0152_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -111,7 +111,7 @@
 ¶
 　　靈隱寺¶
 ¶
-　　水泛趣已綿山行路仍窈迤𨓦經層巒花宫冠林杪峭¶
+　　水泛趣已綿山行路仍窈迤邐經層巒花宫冠林杪峭¶
 壁槩微霄下映樓觀小崖傾樹孤撑亭逺泉重繚蕭條¶
 僧氣閒肅穆人聲悄来游屬秋暮蕉葉青嫋嫋入逕薫¶
 名香憩澗狎幽鳥顧瞻桃源幽捐佩苦不早寄言都城¶

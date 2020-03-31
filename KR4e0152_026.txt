@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.655015
+#+DATE: 2020-03-31 11:37:30.111022
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR4e0152_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -64,7 +64,7 @@
 齬遙情屬沉憂道有均休戚貞則宜黽求¶
 ¶
 <pb:KR4e0152_WYG_026-3b>¶
-　　髙名耀寰宇白日行青冥大旱思為霖&KR1300;焉繫羣情胡¶
+　　髙名耀寰宇白日行青冥大旱思為霖睠焉繫羣情胡¶
 為念獨善渺渺懐南荆安石昔巖栖幡然慰蒼生昭烈¶
 厪三顧永懐遺孔明堯舜茲御天泰階既已平海鵬負¶
 風力九萬將南征君子懽在朝小人樂深耕後圖良未¶

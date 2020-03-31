@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.551693
+#+DATE: 2020-03-31 11:37:29.993049
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR4e0152_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -518,7 +518,7 @@
 　　往來道中漫興¶
 ¶
 　　青山夾道引行輿百疊屏風步步殊霧窟儘容𤣥豹隠¶
-風林時聴白𤠔呼賦傳台嶺行仍逺嘯比蘇門興更孤¶
+風林時聴白猿呼賦傳台嶺行仍逺嘯比蘇門興更孤¶
 安得龍眠李居士寫余衡嶽訪真圖¶
 ¶
 　　糝徑清霜午未消背巖寒日照難交天分福地藏朱鳥¶

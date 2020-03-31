@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.563649
+#+DATE: 2020-03-31 11:37:30.009247
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 16
 <pb:KR4e0152_WYG_016-1a>¶
 　　欽定四庫全書¶
@@ -416,7 +416,7 @@
 　　初謂山拂天飛鳥不可度逡巡躡危磴乃即我行路百¶
 折頓攀援十步九回顧髙林忽在下衣襟有雲霧倒景¶
 <pb:KR4e0152_WYG_016-16a>¶
-猶照人平地黯將暮方當日月過似可捉鳥兎飛瀑如¶
+猶照人平地黯將暮方當日月過似可捉鳥兔飛瀑如¶
 天河所少鵲成渡東北望故鄉江流莽傾注長風動萬¶
 里獨立難久竚¶
 ¶

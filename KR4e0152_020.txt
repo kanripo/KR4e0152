@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.602656
+#+DATE: 2020-03-31 11:37:30.054885
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 20
 <pb:KR4e0152_WYG_020-1a>¶
 　　欽定四庫全書¶
@@ -394,7 +394,7 @@
 　　大堤曲¶
 ¶
 　　大堤多美女顔色春花殊逢人解巧笑但笑秦羅敷傳¶
-道楚王宮細腰金屋中自甘餒為&KR0294;爭効體如風大賈¶
+道楚王宮細腰金屋中自甘餒為鬼爭効體如風大賈¶
 千黄金買面不買心東家登牆者繡履蹋羅衾婀娜墮¶
 馬粧誰言近不祥客性喜逐臭唯誇鮑最芳白石映寒¶
 氷徒矜漢水清遊魚不肯住空名何足榮¶

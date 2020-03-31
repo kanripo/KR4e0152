@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.415617
+#+DATE: 2020-03-31 11:37:29.885249
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4e0152_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -407,7 +407,7 @@
 　　玉虹泉¶
 ¶
 <pb:KR4e0152_WYG_002-16a>¶
-　　一條寒泉色迤𨓦穿石下秋雨何處尋猶餘白虹掛¶
+　　一條寒泉色迤邐穿石下秋雨何處尋猶餘白虹掛¶
 ¶
 　　法華泉¶
 ¶

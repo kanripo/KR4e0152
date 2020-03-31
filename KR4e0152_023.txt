@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.630554
+#+DATE: 2020-03-31 11:37:30.085063
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 23
 <pb:KR4e0152_WYG_023-1a>¶
 　　欽定四庫全書¶
@@ -261,7 +261,7 @@
 曰¶
 ¶
 　　乾樞尊坤極静人之靈感斯應於皇德歆帝心愍下土¶
-施丼霖霖之絶土膏歇物以殘民益懾霖之來天&KR1300;回¶
+施丼霖霖之絶土膏歇物以殘民益懾霖之來天睠回¶
 物既蘇民乃懷霖之沛汪且濊海靈翔潢澤潰霖之足¶
 靈爽伏沃八埏蕃百榖人已悦神益和精禋舉戩福多¶
 昉天邑流海宇國祚隆永無圮¶

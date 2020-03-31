@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.707591
+#+DATE: 2020-03-31 11:37:30.166357
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 33
 <pb:KR4e0152_WYG_033-1a>¶
 　　欽定四庫全書¶
@@ -346,7 +346,7 @@
 　　風洞¶
 ¶
 　　幽澗泠泠洞壑哀靈風不斷石門開鯨波直撼三山動¶
-&KR0583;翼遥搏萬里來日落餘寒飄大野酒醒孤嘯發層臺¶
+鵬翼遥搏萬里來日落餘寒飄大野酒醒孤嘯發層臺¶
 披襟擬賦青蘋色慙愧同遊宋玉才¶
 ¶
 　　靈巖寺¶

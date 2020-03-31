@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 顧華玉集
-#+DATE: 2020-03-31 11:37:29.526021
+#+DATE: 2020-03-31 11:37:29.970267
 #+PROPERTY: ID KR4e0152
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 11
 <pb:KR4e0152_WYG_011-1a>¶
 　　欽定四庫全書¶
@@ -40,7 +40,7 @@
 <pb:KR4e0152_WYG_011-2b>¶
 居此堂也陶翁之樂克備有之敢為先生夀於是先生¶
 載色而興抗音而歌曰結廬人境心逺地偏採菊東籬¶
-南山悠然又歌曰曷彼穠矣&KR0177;其華矣我有嘉賔德音¶
+南山悠然又歌曰曷彼穠矣燁其華矣我有嘉賔德音¶
 懐矣君子與其有陶之風焉¶
 ¶
 　　畫錦堂燕記¶
